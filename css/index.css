@@ -8,6 +8,21 @@
 body{
     background:#f5f5f5;
 }
+/*---------------------------button-Научи повече*/
+
+.button-link{
+    display:inline-block;
+    padding:14px 30px;
+    border-radius:10px;
+    background:#1e90ff;
+    color:white;
+    font-size:18px;
+    text-decoration:none;
+}
+
+.button-link:hover{
+    background:#1877d8;
+}
 
 /*-------------------------------- MENU */
 
